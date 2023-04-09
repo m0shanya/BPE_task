@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "64329675beb55c65a0dbfcbc",
+    "index": 0,
+    "guid": "eb52e0e5-1a25-4c88-9768-7451c476bfd5",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Adriana Spence",
+    "gender": "female",
+    "company": "HAIRPORT",
+    "email": "adrianaspence@hairport.com",
+    "phone": "+1 (995) 518-3057",
+    "address": "627 Havemeyer Street, Hiwasse, Virginia, 7573",
+    "registered": "2018-02-01T08:26:43 -03:00",
+    "updated": "10-10-1955T04:13:45 -03:00",
+    "latitude": -22.914064,
+    "longitude": -154.692774,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Annie Christian"
+      },
+      {
+        "id": 1,
+        "name": "Hancock Crosby"
+      },
+      {
+        "id": 2,
+        "name": "Lindsey Hines"
+      }
+    ],
+    "greeting": "Hello, Adriana Spence! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "6432967583a02e550c7d9756",
+    "index": 1,
+    "guid": "7b81029d-77dc-4a05-8dff-e3c9193ef448",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "blue",
+    "name": "Aida Harrison",
+    "gender": "female",
+    "company": "PURIA",
+    "email": "aidaharrison@puria.com",
+    "phone": "+1 (948) 548-3675",
+    "address": "910 Tompkins Avenue, Alafaya, Ohio, 9042",
+    "registered": "2022-05-20T01:55:44 -03:00",
+    "updated": "07-02-1919T04:46:13 -02:-50",
+    "latitude": -72.347528,
+    "longitude": -33.362629,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jackson Combs"
+      },
+      {
+        "id": 1,
+        "name": "Nichole Obrien"
+      },
+      {
+        "id": 2,
+        "name": "Dunlap Gould"
+      }
+    ],
+    "greeting": "Hello, Aida Harrison! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "643296752f8a66f1c9d8d992",
+    "index": 2,
+    "guid": "c3f412da-b210-4cac-bd9b-b5ae8cca28b8",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": "Wells Howe",
+    "gender": "male",
+    "company": "NAMEBOX",
+    "email": "wellshowe@namebox.com",
+    "phone": "+1 (936) 423-2150",
+    "address": "366 Caton Place, Cherokee, North Carolina, 7935",
+    "registered": "2023-03-05T12:07:03 -03:00",
+    "updated": "24-11-1912T09:13:03 -02:-50",
+    "latitude": -49.592484,
+    "longitude": 56.367142,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aline Dodson"
+      },
+      {
+        "id": 1,
+        "name": "Rosales Ware"
+      },
+      {
+        "id": 2,
+        "name": "Klein Jefferson"
+      }
+    ],
+    "greeting": "Hello, Wells Howe! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "64329675b1eaab5c1633ff65",
+    "index": 3,
+    "guid": "2528987b-eaac-4c7e-87f5-84ab5445f757",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Patterson Kirk",
+    "gender": "male",
+    "company": "DIGIFAD",
+    "email": "pattersonkirk@digifad.com",
+    "phone": "+1 (929) 536-2518",
+    "address": "966 Polar Street, Valle, Palau, 7630",
+    "registered": "2017-05-16T05:13:38 -03:00",
+    "updated": "02-05-1998T06:15:52 -03:00",
+    "latitude": 19.822813,
+    "longitude": -98.982164,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Jannie Munoz"
+      },
+      {
+        "id": 1,
+        "name": "Tia Larsen"
+      },
+      {
+        "id": 2,
+        "name": "Leta Tucker"
+      }
+    ],
+    "greeting": "Hello, Patterson Kirk! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "6432967562ef912b1971e209",
+    "index": 4,
+    "guid": "fa790a76-4184-4c13-872a-0139cd7c86c7",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "green",
+    "name": "Vaughan Jones",
+    "gender": "male",
+    "company": "FIBEROX",
+    "email": "vaughanjones@fiberox.com",
+    "phone": "+1 (854) 596-2230",
+    "address": "211 Ridgewood Place, Bluetown, South Carolina, 6184",
+    "registered": "2018-01-17T01:34:07 -03:00",
+    "updated": "03-06-1908T09:42:58 -02:-50",
+    "latitude": 8.630123,
+    "longitude": 106.689145,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Willa Farmer"
+      },
+      {
+        "id": 1,
+        "name": "Yvette Gonzales"
+      },
+      {
+        "id": 2,
+        "name": "Toni Estrada"
+      }
+    ],
+    "greeting": "Hello, Vaughan Jones! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "6432967560dc00c724a354d7",
+    "index": 5,
+    "guid": "c34035fb-474d-4891-9b61-9fc00be5cf23",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 34,
+    "eyeColor": "brown",
+    "name": "Tina Jacobson",
+    "gender": "female",
+    "company": "ENERFORCE",
+    "email": "tinajacobson@enerforce.com",
+    "phone": "+1 (833) 432-2569",
+    "address": "564 Nolans Lane, Bellfountain, Illinois, 2718",
+    "registered": "2018-09-21T02:02:48 -03:00",
+    "updated": "22-06-1930T11:00:17 -03:00",
+    "latitude": -29.605926,
+    "longitude": 91.552404,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Charlene Ingram"
+      },
+      {
+        "id": 1,
+        "name": "Antonia Estes"
+      },
+      {
+        "id": 2,
+        "name": "Sonya Snow"
+      }
+    ],
+    "greeting": "Hello, Tina Jacobson! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
